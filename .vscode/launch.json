@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "bfds.carpet.App",
+            "projectName": "bfds-carpet-0301"
+        }
+    ]
+}
